@@ -29,3 +29,9 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<div id="badges" align="center">
+ <a href="https://www.linkedin.com/in/iiamir/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+</div>
