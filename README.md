@@ -18,7 +18,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" title="Kivy" **alt="Kivy" width="40" height="40"/>
 </div>
 
-#### Updating...
+#### Upgrading...
 <div>
    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" title="Flutter" **alt="Flutter" width="80" height="40"/>
    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" title="Solidity" **alt="Solidity" width="40" height="40"/>  
