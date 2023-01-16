@@ -22,7 +22,6 @@
 #### Upgrading...
 <div>
    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" title="Flutter" **alt="Flutter" width="80" height="40"/>
-   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" title="Solidity" **alt="Solidity" width="40" height="40"/>  
 </div>
 
 <div id="badges" align="center">
