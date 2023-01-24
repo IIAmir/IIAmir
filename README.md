@@ -12,6 +12,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/wp-content/files/fu/369254/svg/android-logo-icon-png-svg.png" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://www.4x-treme.com/wp-content/uploads/2020/10/kotlin-logo-png-transparent-min.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://funkymuse.dev/assets/img/compose/compose_logo.png" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/>&nbsp;
   <img src="https://cloud.google.com/images/products/kotlin/ktor-logo.png" title="Ktor" alt="Ktor" width="40" height="40"/>&nbsp;
   <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/material-ui-logo.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
