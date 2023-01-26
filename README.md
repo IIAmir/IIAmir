@@ -25,14 +25,12 @@
    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" title="Flutter" **alt="Flutter" width="80" height="40"/>
 </div>
 
-<div id="badges" align="center">
- <a href="http://instagram.com/kt.iiamir">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+#### Connect with me 👇
 
-<div id="badges" align="center">
- <a href="https://www.linkedin.com/in/iiamir/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  <a href="http://instagram.com/kt.iiamir/" title="Redirect to Instagram">
+    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" width="120" height="35" alt="Instagram" />
   </a>
-</div>
+
+  <a href="https://www.linkedin.com/in/iiamir/" title="Redirect to LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white" width="120" height="35" alt="LinkedIn" />
+  </a>
