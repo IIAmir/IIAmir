@@ -1,6 +1,6 @@
 # Hi there, I'm Amirreza Alizadeh 👋
 
-- 👨‍💻 I’m a Android Developer ... (18 y.o)
+- 👨‍💻 I’m a Native Android Developer ... (18 y.o)
 - 💫 I’m currently learning ... Flutter
 - 👨‍🎓 University IAUM (Islamic Azad University Mashhad)
 - ⚡ Fact 😐 I’m always a junior 😎
