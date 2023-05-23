@@ -1,7 +1,7 @@
 # Hi there, I'm Amirreza Alizadeh 👋
 
-- 👨‍💻 I’m a Native Android Developer ... (18 y.o)
-- 💫 I’m currently learning ... Flutter
+- 👨‍💻 I’m a Native Android Developer ... (19 y.o)
+- 💫 I’m currently learning ... AI
 - 👨‍🎓 University IAUM (Islamic Azad University Mashhad)
 - ⚡ Fact 😐 I’m always a junior 😎
 
@@ -15,6 +15,7 @@
   <img src="https://funkymuse.dev/assets/img/compose/compose_logo.png" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/>&nbsp;
   <img src="https://cloud.google.com/images/products/kotlin/ktor-logo.png" title="Ktor" alt="Ktor" width="40" height="40"/>&nbsp;
   <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" title="Flutter" **alt="Flutter" width="80" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/material-ui-logo.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://nikhil.is-a.dev/Assets/Card-Image/firebase.png" title="FireBase" alt="FireBase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" title="Kivy" **alt="Kivy" width="40" height="40"/>
@@ -22,7 +23,7 @@
 
 #### Upgrading...
 <div>
-   <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" title="Flutter" **alt="Flutter" width="80" height="40"/>
+   
 </div>
 
 #### Connect with me 👇
