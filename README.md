@@ -23,7 +23,7 @@
 
 #### Upgrading...
 <div>
-   
+   <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" title="Artificial Intelligence" **alt="Artificial Intelligence" width="40" height="40"/>
 </div>
 
 #### Connect with me 👇
