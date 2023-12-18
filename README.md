@@ -18,12 +18,8 @@
   <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" title="Flutter" **alt="Flutter" width="80" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/material-ui-logo.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="FireBase" alt="FireBase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" title="Kivy" **alt="Kivy" width="40" height="40"/>
-</div>
-
-#### Upgrading...
-<div>
-   <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" title="Artificial Intelligence" **alt="Artificial Intelligence" width="40" height="40"/>
 </div>
 
 #### Connect with me 👇
