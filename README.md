@@ -22,6 +22,11 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" title="Kivy" **alt="Kivy" width="40" height="40"/>
 </div>
 
+### Most used languages
+<div align="start" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiamir&layout=compact&title_color=553c9a&text_color=1a202c" height="150"/>
+</div>
+
 #### Connect with me 👇
 
   <a href="http://instagram.com/kt.iiamir/" title="Redirect to Instagram">
