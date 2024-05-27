@@ -1,9 +1,8 @@
 # Hi there, I'm Amirreza Alizadeh 👋
 
-- 👨‍💻 I’m a Android & Flutter Developer ... 19 Y.O
+- 👨‍💻 I’m a Android & Flutter Developer ... 20 Y.O
 - 👨‍🎓 University IAUM (Islamic Azad University Mashhad)
 - 💫 Expand your world through learning
-- ⚡ Fact 😐 I’m always a junior 😎
 
 <img src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width="100px" height = "50px"/>
 
