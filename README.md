@@ -32,7 +32,7 @@
 
 #### Connect with me 👇
 
-  <a href="http://instagram.com/kt.iiamir/" title="Redirect to Instagram">
+  <a href="http://instagram.com/iiamir20/" title="Redirect to Instagram">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" width="120" height="35" alt="Instagram" />
   </a>
 
