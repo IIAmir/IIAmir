@@ -32,10 +32,12 @@
 
 #### Connect with me 👇
 
-  <a href="http://instagram.com/iiamir20/" title="Redirect to Instagram">
-    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" width="120" height="35" alt="Instagram" />
+<div align="start">
+  <a href="https://instagram.com/iiamir20/" title="Redirect to Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
-
   <a href="https://www.linkedin.com/in/iiamir/" title="Redirect to LinkedIn">
-    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white" width="120" height="35" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
+</div>
+
